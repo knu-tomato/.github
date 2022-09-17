@@ -1,2 +1,2 @@
 # **knu-tomato**
-## tomato in color
+## tomato is color
