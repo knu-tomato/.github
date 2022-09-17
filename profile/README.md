@@ -1,2 +1,2 @@
-# <span style="color: tomato">**knu-tomato**</span>
-## fresh like tomato
+# **knu-tomato**
+## tomato in color
